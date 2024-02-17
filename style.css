@@ -1,0 +1,123 @@
+.athkar{
+    background-color: cadetblue;
+    color: #fff;
+    width: fit-content;
+    padding: 15px 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.clic{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    background-color: rgb(135, 159, 159);
+    color: #fff;
+    cursor: pointer;
+    
+}
+.staragin{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    background-color: rgb(135, 159, 159);
+    color: #fff;
+    cursor: pointer;
+    
+}
+
+
+
+.athkar1{
+    background-color: cadetblue;
+    color: #fff;
+    width: fit-content;
+    padding: 15px 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.clic1{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    background-color: rgb(135, 159, 159);
+    color: #fff;
+    cursor: pointer;
+    
+}
+.staragin1{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    background-color: rgb(135, 159, 159);
+    color: #fff;
+    cursor: pointer;
+    
+}
+
+
+.athkar2{
+    background-color: cadetblue;
+    color: #fff;
+    width: fit-content;
+    padding: 15px 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.clic2{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    background-color: rgb(135, 159, 159);
+    color: #fff;
+    cursor: pointer;
+    
+}
+.staragin2{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    background-color: rgb(135, 159, 159);
+    color: #fff;
+    cursor: pointer;
+    
+}
+
+
+.athkar3{
+    background-color: cadetblue;
+    color: #fff;
+    width: fit-content;
+    padding: 15px 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.clic3{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    background-color: rgb(135, 159, 159);
+    color: #fff;
+    cursor: pointer;
+    
+}
+.staragin3{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+    background-color: rgb(135, 159, 159);
+    color: #fff;
+    cursor: pointer;
+    
+}
